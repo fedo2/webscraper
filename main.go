@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	scraper.scrapNethtml()
-	scraper.scrapGoquery()
+	scraper.ScrapNethtml()
+	scraper.ScrapGoquery()
 }

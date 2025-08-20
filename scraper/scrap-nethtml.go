@@ -9,7 +9,7 @@ import (
 	"golang.org/x/net/html"
 )
 
-func scrapNethtml() {
+func ScrapNethtml() {
 	// URL pro scraping
 	url := "https://www.theguardian.com/lifeandstyle/series/sudoku"
 	

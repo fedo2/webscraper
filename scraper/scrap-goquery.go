@@ -8,7 +8,7 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-func scrapGoquery() {
+func ScrapGoquery() {
 	url := "https://www.theguardian.com/lifeandstyle/series/sudoku"
 	
 	// HTTP GET request
