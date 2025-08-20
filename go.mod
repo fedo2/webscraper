@@ -1,4 +1,4 @@
-module github.com/fedo2/webscraper
+module webscraper
 
 go 1.24.6
 

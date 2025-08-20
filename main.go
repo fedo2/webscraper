@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/fedo2/webscraper/scraper"
+	"webscraper/scraper"
 )
 
 func main() {
